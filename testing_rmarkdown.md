@@ -9,4 +9,4 @@ y <- rnorm(10)
 plot(x, y, type = "b")
 ```
 
-![](testing_rmarkdown_files/figure-gfm/unnamed-chunk-1-1.png)<!-- -->
+![](testing_rmarkdown_files/figure-gfm/r-1.png)<!-- -->
